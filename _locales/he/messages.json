@@ -1,0 +1,15 @@
+{
+  "insert_wallet": {"message": "הכנס מזהה כתובת $1 (hash)" },
+  "submit": {"message": "בדוק" },
+  "success": {"message": "יתרת הכתובת היא" },
+  "choose_coins": {"message": "בחר מטבעות" },
+  "balance": {"message": "יתרת $1" },
+  "edit_coin": {"message": "ערוך  מזהה $1" },
+  "edit": {"message": "ערוך" },
+  "error": {"message": "סליחה, משהו לא עובד" },
+  "please_wait": {"message": "אנא המתן" },
+  "browser_action": {"message": "בדוק יתרת מטבעות בלוקצ'יין" },
+  "ext_desc": {"message": "הכנס מזהה כתובת  מטבע בלוקצ'יין ומצא את היתרה שלו" },
+  "ext_name": {"message": "יתרת  מטבעות בלוקצ'יין בלחיצה אחת" }
+}
+

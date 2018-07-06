@@ -1,0 +1,15 @@
+{
+  "submit": {"message": "Check" },
+  "insert_wallet": {"message": "Insert $1 hash" },
+  "choose_coins": {"message": "Choose your coins" },
+  "success": {"message": "Balance of wallet is" },
+  "balance": {"message": "$1 balance" },
+  "edit_coin": {"message": "Edit $1 id" },
+  "edit": {"message": "Edit" },
+  "error": {"message": "Sorry, something went wrong" },
+  "please_wait": {"message": "Please wait" },
+  "browser_action": {"message": "Get blockchain coins balance" },
+  "ext_desc": {"message": "Get blockchain coins balance in one click" },
+  "ext_name": {"message": "1Click blockchain coins Balance" }
+}
+

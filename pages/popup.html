@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+  <meta charset="UTF-8">
+  <title>Select url</title>
+  <style>
+  body{
+        min-width: 450px;
+    font-size: 18px;
+  }
+  .btn, .btn-large, .btn-small {
+    text-decoration: none;
+    color: #fff;
+    background-color: #26a69a;
+    text-align: center;
+    letter-spacing: .5px;
+    -webkit-transition: background-color .2s ease-out;
+    transition: background-color .2s ease-out;
+    cursor: pointer;
+    font-size: 11px;
+    outline: 0;
+    border: none;
+    border-radius: 2px;
+    display: inline-block;
+    height: 21px;
+    line-height: 23px;
+    padding: 0 16px;
+    vertical-align: middle;
+    -webkit-tap-highlight-color: transparent;
+    }
+    .hidden{
+      display: none;
+    }
+    div#message {
+      padding: 4px 2px;
+  }
+  button.edit.btn {
+    float: right;
+}
+.title{
+      padding: 2px;
+    margin: 0;
+}
+.coin-wrp:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.coin-wrp {
+    padding: 10px 4px;
+}
+.coin-wrp:not(:last-child) {
+    border-bottom: 1px solid lightgray;
+}
+.message:not(.with-value){
+  text-align: center;
+}
+.message.with-value{
+      text-decoration: underline;
+    margin-bottom: 5px;
+
+}
+.balance{
+     float: left;
+}
+
+
+  </style>
+</head>
+<body class="popup-box" >
+  <div class="coins"></div>
+  <script src="/js/jquery.js"></script>
+  <script src="/js/coins.js"></script>
+  <script src="/js/popup.js"></script>
+</body>
+</html>
