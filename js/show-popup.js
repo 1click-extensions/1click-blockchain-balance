@@ -4,9 +4,9 @@ function oneClickGetPopupHtml(extension) {
     extension = _extension
   }
 
-  //   mail = `1click-bitcoin-balance@1ce.org`,
-  //   	rateLink = `https://chrome.google.com/webstore/detail/doooieacajknakjmppclchjaelhdkbbg/reviews`,
-  // 	  githubLink = `https://github.com/1click-extensions/1click-bitcoin-balance`;
+  //   mail = `1click-blockchain-balance@1ce.org`,
+  //   	rateLink = `https://chrome.google.com/webstore/detail/pgkiebdipbcgcpdeiegagingndijhdal/reviews`,
+  // 	  githubLink = `https://github.com/1click-extensions/1click-blockchain-balance`;
   // 	console.log(extension);
   return (str = `
   <style>
@@ -109,9 +109,9 @@ button.btn-popup.no-thanks {
   </style>
 	<div class="pleaseRate">
 		<div class="please-rate-text">
-			If you like 1Click Bitcoin Balance <a target=_blank href="https://chrome.google.com/webstore/detail/doooieacajknakjmppclchjaelhdkbbg/reviews" >please give us 5-stars</a>
+			If you like 1Click blockchain coins Balance <a target=_blank href="https://chrome.google.com/webstore/detail/pgkiebdipbcgcpdeiegagingndijhdal/reviews" >please give us 5-stars</a>
 			<br/>
-			<div class="addition">To report a bug please <a href="https://github.com/1click-extensions/1click-bitcoin-balance/issues/new">submit issue</a> 
+			<div class="addition">To report a bug please <a href="https://github.com/1click-extensions/1click-blockchain-balance/issues/new">submit issue</a> 
 			</div>
 			<div class="skip-wrp"><button type="button" class="btn-popup no-thanks ">Skip</button></div>
 		</div>
